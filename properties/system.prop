@@ -28,6 +28,10 @@ persist.vendor.radio.vdp_on_ims_cap=1
 ro.lmk.kill_heaviest_task=true
 ro.lmk.kill_timeout_ms=15
 
+# Live Wallpaper
+persist.wm.debug.lockscreen_live_wallpaper=true
+
+
 # Media
 media.stagefright.thumbnail.prefer_hw_codecs=true
 ro.media.recorder-max-base-layer-fps=60
