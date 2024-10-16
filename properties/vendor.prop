@@ -177,9 +177,6 @@ drm.service.enabled=true
 # Fingerprint
 ro.vendor.fingerprint.type=side
 
-# FRP
-ro.frp.pst=/dev/block/bootdevice/by-name/frp
-
 # Incremental FS
 ro.incremental.enable=true
 
