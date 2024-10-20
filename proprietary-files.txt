@@ -611,6 +611,16 @@ vendor/lib64/libVkLayer_q3dtools.so|5ddfe2401db02f851d6472a7ba57c5fc67923675
 vendor/lib64/libgpudataproducer.so|a2ebbc621637de0a63b5a6663b02575cb394fcda
 vendor/lib64/libllvm-qcom.so|bd1fd50da1fc5099168049c10aba542389489e82
 
+# Graphics (Adreno) - from AOSPA (v530.54)
+vendor/gpu/kbc/sequence_manifest.bin|cc050a8058904871b3cfabec74521d42f0a61a1f
+vendor/gpu/kbc/unified_kbcs_32.bin|503228f87adc71131aa8134659b00dffe073e973
+vendor/gpu/kbc/unified_kbcs_64.bin|d63c26959dc02b2efc251953e99dc6e7c32e7f6e
+vendor/gpu/kbc/unified_ksqs.bin|8f77dc004796d58acb959e78f4994c5d6b90baef
+vendor/lib/libkcl.so|4de6a2a00aed99c2f180ae5cf3ec03a96b3be2d7
+vendor/lib/libkernelmanager.so|09e05782cae3b8c5910d069c9d79eb4e58f2801d
+vendor/lib64/libkcl.so|505c6488d7c2c34ac6bcc578e6e90098553e5f4f
+vendor/lib64/libkernelmanager.so|6e34cfed1b61ef27ac3740cf477e1ed836695513
+
 # Graphics (Adreno) - from Adreno v757 tryigit
 vendor/lib/egl/eglSubDriverAndroid.so|9f76906266649d5c8bb98c693c9dbfa87e06d720
 vendor/lib/egl/libEGL_adreno.so;SYMLINK=vendor/lib/libEGL_adreno.so|00675b9ebff3fc836e166ef22991d12684bc0448
