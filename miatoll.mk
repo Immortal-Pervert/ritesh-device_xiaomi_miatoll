@@ -502,3 +502,4 @@ PRODUCT_PACKAGES += \
 
 # Inherit proprietary targets
 $(call inherit-product, vendor/xiaomi/miatoll/miatoll-vendor.mk)
+-include vendor/lineage-priv/keys/keys.mk
